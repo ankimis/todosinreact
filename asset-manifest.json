@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ankimis/todosinreact/static/css/main.2eec9c7b.css",
+    "main.js": "/ankimis/todosinreact/static/js/main.c1aa5ac6.js",
+    "static/js/787.d1061748.chunk.js": "/ankimis/todosinreact/static/js/787.d1061748.chunk.js",
+    "index.html": "/ankimis/todosinreact/index.html",
+    "main.2eec9c7b.css.map": "/ankimis/todosinreact/static/css/main.2eec9c7b.css.map",
+    "main.c1aa5ac6.js.map": "/ankimis/todosinreact/static/js/main.c1aa5ac6.js.map",
+    "787.d1061748.chunk.js.map": "/ankimis/todosinreact/static/js/787.d1061748.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eec9c7b.css",
+    "static/js/main.c1aa5ac6.js"
+  ]
+}
